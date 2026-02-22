@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Gaurav<br><br>🚀 Backend Engineer (FastAPI) | 🤖 AI Engineer<br><br>I build scalable backend systems and intelligent AI applications.<br>Focused on machine learning, model fine-tuning, LLM integrations, and high-performance APIs.
+👋 Hi, I'm Gaurav<br><br>🚀 Backend Engineer (FastAPI) | 🤖 Full Stack AI Engineer<br><br>I build scalable backend systems and intelligent AI applications.<br>Focused on machine learning, model fine-tuning, LLM integrations, and high-performance APIs.
 
 
 ## 🌐 Socials:
